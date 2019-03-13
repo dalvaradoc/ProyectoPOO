@@ -539,32 +539,8 @@ public class GameLoop extends AnimationTimer{
             camara.setTranslateY(0);
         }
         
-//        camara.setTranslateY(offsetCamy);
-//        camara.setTranslateX(prota.getX()-offsetCamx);
-//        camara.setTranslateY(offsetCamy);
-//        
-//        if (camara.getTranslateX() > actualLevel.getLimitsCamera()[1]){
-//            camara.setTranslateX(actualLevel.getLimitsCamera()[1]);
-//        }
-//        
-//        if (camara.getTranslateX() < actualLevel.getLimitsCamera()[0]){
-//            camara.setTranslateX(actualLevel.getLimitsCamera()[0]);
-//        }
-        
-        //camara.setTranslateX(prota.getX()-offsetCamx);
-//        if (prota.getY() < camara.getTranslateY()){
-//            camara.setTranslateY(camara.getTranslateY()+1);
-//        } else if (prota.getY()+80 > camara.getTranslateY()+offsetCamy){
-//            camara.setTranslateY(camara.getTranslateY()-1);
-//        }
-//        
-//        if (camara.getTranslateX() > actualLevel.getLimitsCamera()[0]){
-//            camara.setTranslateX(actualLevel.getLimitsCamera()[0]);
-//        } else if (camara.getTranslateX() < actualLevel.getLimitsCamera()[1]){
-//            camara.setTranslateX(actualLevel.getLimitsCamera()[1]);
-//        }
 
-        showBloques();
+//        showBloques();
 
     }
 }

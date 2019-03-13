@@ -22,7 +22,7 @@ import javafx.util.Duration;
  *
  * @author Alejandro
  */
-public class Tablero extends Application{
+public class Main extends Application{
 
     @Override
     public void start(Stage primaryStage){

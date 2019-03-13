@@ -16,6 +16,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
+import javafx.scene.Cursor;
 
 /**
  *
@@ -36,6 +37,7 @@ public class ControladorInicio {
     
     public void mostrarVista () {
         Singleton singleton = Singleton.getSingleton();
+        ventana.getScene().setCursor(Cursor.DEFAULT);
         this.ventana.mostrar(singleton.getStage());
     }
     
@@ -50,6 +52,7 @@ public class ControladorInicio {
                 Logger.getLogger(ControladorInicio.class.getName()).log(Level.SEVERE, null, ex);
             }
             juego.mostrarVista();
+            
             GameLoop.getGameLoop().start();
         }
     }

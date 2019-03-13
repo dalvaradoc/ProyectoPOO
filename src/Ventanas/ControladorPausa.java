@@ -14,6 +14,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
+import javafx.scene.Cursor;
 
 /**
  *
@@ -38,6 +39,7 @@ public class ControladorPausa {
     
     public void mostrarVista () {
         Singleton singleton = Singleton.getSingleton();
+        ventana.getScene().setCursor(Cursor.DEFAULT);
         this.ventana.mostrar(singleton.getStage());
     }
     
