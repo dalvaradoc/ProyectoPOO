@@ -31,7 +31,4 @@ public class Singleton {
         this.stage = stage;
     }
     
-    
-    
-    
 }
