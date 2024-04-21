@@ -7,9 +7,7 @@ This was made using only Java and the JavaFX library.
 
 ## Gameplay
 
-<video width="800" height="450" controls>
-  <source src="https://github.com/dalvaradoc/ProyectoPOO/blob/master/SkullDungeon%20Gameplay.mp4" type="video/mp4">
-</video>
+<iframe width="800" height="450" src="https://drive.google.com/file/d/1jcwjAqYduE76k-ZiStkwzetFPiudhBAa/preview"></iframe>
 
 ## Storyboard
 
