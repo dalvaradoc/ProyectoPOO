@@ -7,7 +7,7 @@ This was made using only Java and the JavaFX library.
 
 ## Gameplay
 
-https://github.com/dalvaradoc/ProyectoPOO/blob/master/SkullDungeon%20Gameplay.mp4
+![]drive.google.com/uc?export=view&id=1cy_mylV1IOjTNUgEnZudiR-jzZRqs46x)
 
 ## Storyboard
 
