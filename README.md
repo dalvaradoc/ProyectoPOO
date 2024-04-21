@@ -7,7 +7,7 @@ This was made using only Java and the JavaFX library.
 
 ## Gameplay
 
-![](drive.google.com/uc?export=view&id=1cy_mylV1IOjTNUgEnZudiR-jzZRqs46x)
+<img src="drive.google.com/uc?export=view&id=1cy_mylV1IOjTNUgEnZudiR-jzZRqs46x" width="800" width="450" />
 
 ## Storyboard
 
