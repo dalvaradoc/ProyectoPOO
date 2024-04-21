@@ -7,7 +7,7 @@ This was made using only Java and the JavaFX library.
 
 ## Gameplay
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IyoR2R0v7cI?si=qZK1ywdZYWY-CKc-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video gameplay](https://img.youtube.com/vi/IyoR2R0v7cI/0.jpg)](https://www.youtube.com/watch?v=IyoR2R0v7cI)
 
 ## Storyboard
 
